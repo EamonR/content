@@ -1,0 +1,9 @@
+h1 {
+    color: darkblue;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
